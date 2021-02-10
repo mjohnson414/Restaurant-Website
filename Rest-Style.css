@@ -1,0 +1,62 @@
+/*RestStyle.css*/
+body{
+margin: 0px;
+}
+li{
+  display: block;
+  list-style:none;
+  font-faimly:sans-serf;
+  font-size: 25px;
+  padding: 10px;
+}
+.items:hover{
+background-color: #ff9999
+}
+a{
+display: block;
+text-decoration: none;
+color: red;
+height: 100px;
+width: 100px;
+}
+.menue:hover{
+background-color: #ff9999
+}
+a{
+display: block;
+text-decoration: none;
+color: red;
+height: 100px;
+width: 100px;
+}
+#sideNav{
+  background-color: #ffcccc;
+  float:left;
+  height:100%;
+  width:10%;
+  border:5px solid #121212;
+  border-top: none;
+  margin:0px;
+  margin-left:5px;
+  padding:10px;
+}
+#content{
+text-align: center;
+font-family: Roboto Condensed;
+}
+#topNav{
+background-color: #ffcccc;
+width: 97.4%;
+height: 10%;
+float: right;
+border:5px solid #121212;
+margin:0px;
+margin-left:5px;
+padding: 10px;
+color: red;
+}
+.items{
+display: inline;
+float: right;
+height: 15px;
+}
